@@ -1,1 +1,0 @@
-import{H as e}from"./Heading-7bc6409b.js";import{d as o,h as t,w as a,o as n,j as r}from"./index-b98fe18c.js";const u=o({__name:"NotFoundView",setup(s){return(c,_)=>(n(),t(e,null,{default:a(()=>[r(" 404 Not Found 🛑 ")]),_:1}))}});export{u as default};
