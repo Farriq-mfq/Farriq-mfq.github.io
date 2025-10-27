@@ -1,0 +1,121 @@
+[
+  {
+    "image": "/assets/kh.png",
+    "title": "Sistem Progam Keluarga Harapan",
+    "description": "Sistem ini membantu mensurvei penerima progam bantuan keluarga harapan dengan berbagai aspek Kriteria, Algoritma perhitungan Simple Additive Weighting (SAW) ",
+    "techs": [
+      {
+        "title": "Laravel & Vue Js (inertia JS)"
+      }
+    ],
+    "github": "https://github.com/Farriq-mfq/Perpustakaan-Web",
+    "status": "public"
+  },
+  {
+    "image": "/assets/fk.png",
+    "title": "FKTempmail",
+    "description": "Email Sementara ",
+    "techs": [
+      {
+        "title": "VueJs 2"
+      }
+    ],
+    "github": "https://github.com/Farriq-mfq/Perpustakaan-Web",
+    "status": "public"
+  },
+  {
+    "image": "/assets/cl.png",
+    "title": "Landing Page",
+    "description": " Collection landing page project ",
+    "techs": [
+      {
+        "title": "Mix Tech"
+      }
+    ],
+    "github": "https://github.com/Farriq-mfq/landing-page",
+    "status": "public"
+  },
+  {
+    "image": "/assets/ds.png",
+    "title": "STATISTIK distribusi frekwensi algoritma",
+    "description": "Algoritma dari distribusi frekwensi dengan menggunakan bahasa javascript",
+    "techs": [
+      {
+        "title": "typescript"
+      },
+      {
+        "title": "bootstrap"
+      }
+    ],
+    "github": "https://github.com/Farriq-mfq/statistik_distribusi_frekwensi_algoritma",
+    "status": "public"
+  },
+  {
+    "image": "/assets/perpusQu.png",
+    "title": "PerpusQu",
+    "description": "PerpusQu adalah web Application untuk membantu mengelolah perpustakaan dengan skala kecil",
+    "techs": [
+      {
+        "title": "Laravel (Livewire)"
+      }
+    ],
+    "github": "https://github.com/Farriq-mfq/Perpustakaan-Web",
+    "status": "public"
+  },
+  {
+    "image": "/assets/appcloud.png",
+    "title": "AppCloud",
+    "description": "Ftp server download",
+    "techs": [
+      {
+        "title": "Next Js"
+      }
+    ],
+    "github": "https://github.com/Farriq-mfq/appcloud",
+    "status": "public"
+  },
+  {
+      "image": "/assets/nest.png",
+      "title": "Nest Js BoilerPlate",
+      "description": "Boilerplate untuk nest js auth etc",
+      "techs": [
+        {
+          "title": "Nest Js"
+        }
+      ],
+      "github": "https://github.com/dimmmslots/backend-nest-boilerplate/",
+      "status": "public"
+    }, {
+      "image": "/assets/recipe.png",
+      "title": "Recipe App (FqRecipe) onProgress 🚿",
+      "description": "Recipe Book App",
+      "techs": [
+        {
+          "title": "React"
+        },
+        {
+          "title": "Nest Js"
+        },
+        {
+          "title": "postgresql"
+        }
+      ],
+      "github": "https://github.com/Farriq-mfq/Fqrecipe",
+      "status": "public"
+    },
+     {
+      "image": "/assets/simple_node_api.png",
+      "title": "Simple Node Js Api",
+      "description": "a simple api make with node js and mongo",
+      "techs": [
+        {
+          "title": "Express"
+        },
+        {
+          "title": "Mongo"
+        }
+      ],
+      "github": "https://github.com/Farriq-mfq/node-js-api",
+      "status": "public"
+    }
+]

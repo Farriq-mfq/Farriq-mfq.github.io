@@ -1,0 +1,53 @@
+{
+    "image": "/assets/hai.bmp",
+    "title": "Hai School Login",
+    "description": " Login Page with html css ",
+    "techs": [
+        {
+            "title": "HTML"
+        },
+        {
+            "title": "CSS"
+        }
+    ],
+    "github": "https://github.com/Farriq-mfq/hai-school-login",
+    "status": "public"{
+        "image": "/assets/tikus.png",
+        "title": "Game Pukul Tikus",
+        "description": " Game Pukul Tikus ",
+        "techs": [
+            {
+                "title": "Javascript"
+            }
+        ],
+        "github": "https://github.com/Farriq-mfq/Game-pukul-tikus",
+        "status": "public"
+    },
+    {
+        "image": "/assets/sl.png",
+        "title": "Simple Bulk Mail",
+        "description": " Simple Bulk Mail ",
+        "techs": [
+            {
+                "title": "PHP Native"
+            },
+            {
+                "title": "Jquery"
+            }
+        ],
+        "github": "https://github.com/Farriq-mfq/simple-mail-transfer",
+        "status": "public"
+    },
+    {
+        "image": "/assets/upt.png",
+        "title": "UPT Landing Page",
+        "description": " PORTFOLIO UPT STMIK PEKALONGAN ",
+        "techs": [
+            {
+                "title": "Next Js"
+            }
+        ],
+        "github": "https://github.com/Farriq-mfq/UPT-LANDING-PAGE",
+        "status": "public"
+    },
+}

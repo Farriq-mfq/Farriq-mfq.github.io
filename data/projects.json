@@ -1,0 +1,224 @@
+{
+  "message": "project json",
+  "data": [
+    {
+      "image": "/assets/sipokmas.png",
+      "title": "SIPOKMAS",
+      "description": "SIPOKMAS (Dinas Perdagangan, Koperasi dan UKM Kota Pekalongan) adalah sistem informasi perkembangan harga kebutuhan pokok masyarakat kota Pekalongan.",
+      "techs": [
+        {
+          "title": "Laravel & Vue Js (Vite)"
+        }
+      ],
+      "github": "#",
+      "status": "private",
+      "slug": "sipokmas",
+      "content": "SIPOKMAS dikembangkan untuk membantu Dinas Perdagangan, Koperasi, dan UKM Kota Pekalongan dalam mengelola data harga kebutuhan pokok masyarakat secara realtime dan transparan. Aplikasi ini tidak hanya berfungsi sebagai sistem informasi harga, tetapi juga menyediakan fitur pemantauan tren harga, perbandingan harian, serta penyajian data yang mudah dipahami publik. Dengan adanya SIPOKMAS, proses pengumpulan dan penyajian data yang sebelumnya manual menjadi lebih terstruktur, akurat, dan dapat dijadikan dasar pengambilan keputusan oleh pemerintah kota."
+    },
+    {
+      "image": "/assets/sipeg.jpeg",
+      "title": "SIPEKA",
+      "description": "Sistem Informasi Pegawai dan pembuatan kinerja pegawai Non ASN Dinas Perdagangan,Koperasi dan UKM Kota Pekalongan",
+      "techs": [
+        {
+          "title": "Flutter"
+        }
+      ],
+      "github": "#",
+      "status": "private",
+      "slug": "sipeka",
+      "content": "SIPEKA dikembangkan untuk membantu Dinas Perdagangan, Koperasi, dan UKM Kota Pekalongan dalam mengelola data pegawai Non ASN. Aplikasi ini tidak hanya berfungsi sebagai sistem informasi kepegawaian, tetapi juga menyediakan fitur untuk mencatat dan memantau kinerja pegawai secara lebih transparan dan terukur. Dengan adanya aplikasi ini, proses administrasi pegawai yang sebelumnya manual menjadi lebih terstruktur, efisien, dan mudah dipantau oleh pimpinan."
+    },
+    {
+      "image": "/assets/stay-mobile.png",
+      "title": "STAY-Mobile",
+      "description": "Sistem Management Sekolah Berbasis Mobile",
+      "techs": [
+        {
+          "title": "Vue Js"
+        },
+        {
+          "title": "Nest Js"
+        },
+        {
+          "title": "Prisma"
+        },
+        {
+          "title": "Socket.io"
+        }
+      ],
+      "github": "#",
+      "status": "private",
+      "slug": "stay-mobile",
+      "content": "STAY-Mobile adalah aplikasi berbasis mobile yang ditujukan untuk memudahkan pihak sekolah, guru, dan siswa dalam mengakses sistem manajemen sekolah kapan saja dan di mana saja. Melalui aplikasi ini, pengguna dapat mengakses jadwal pelajaran, nilai, presensi, hingga komunikasi antar guru dan orang tua. Proyek ini dikembangkan dengan tujuan memberikan fleksibilitas penggunaan dibandingkan versi web, sehingga sekolah bisa lebih cepat beradaptasi dengan kebutuhan digital."
+    },
+    {
+      "image": "/assets/stay-web.png",
+      "title": "STAY-Website",
+      "description": "Sistem Management Sekolah",
+      "techs": [
+        {
+          "title": "Vue Js"
+        },
+        {
+          "title": "Nest Js"
+        },
+        {
+          "title": "Prisma"
+        },
+        {
+          "title": "Socket.io"
+        }
+      ],
+      "github": "#",
+      "status": "private",
+      "slug": "stay-web",
+      "content": "STAY-Website adalah platform berbasis web untuk sistem manajemen sekolah. Aplikasi ini dirancang untuk mempermudah pengelolaan data sekolah seperti siswa, guru, mata pelajaran, nilai, dan presensi. Dengan integrasi real-time menggunakan Socket.io, komunikasi antar pengguna menjadi lebih interaktif. Website ini menjadi pusat utama manajemen, sementara aplikasi mobile berfungsi sebagai akses tambahan yang lebih praktis."
+    },
+    {
+      "image": "/assets/esp32.png",
+      "title": "Sistem Presensi",
+      "description": "Project Sistem Presensi menggunakan Internet Of Think (esp32) dengan menggunakan modul RFID untuk scan kartu ataupun pin yang support RFID",
+      "techs": [
+        {
+          "title": "React"
+        },
+        {
+          "title": "Express"
+        },
+        {
+          "title": "Prisma"
+        },
+        {
+          "title": "Socket.io"
+        },
+        {
+          "title": "Tailwindcss"
+        }
+      ],
+      "github": "https://github.com/Farriq-mfq/presensi-esp32",
+      "status": "public",
+      "slug": "esp32",
+      "content": "Sistem Presensi berbasis IoT ini dikembangkan menggunakan board ESP32 dan modul RFID sebagai media autentikasi. Guru maupun siswa cukup menempelkan kartu RFID untuk melakukan presensi, dan data akan langsung terkirim ke server. Dengan integrasi React di frontend serta Express dan Prisma di backend, sistem ini mampu memberikan laporan presensi secara real-time. Proyek ini ditujukan untuk sekolah yang ingin beralih dari sistem absensi manual ke sistem digital yang lebih akurat dan efisien."
+    },
+    {
+      "image": "/assets/sip_point.png",
+      "title": "SIP Point",
+      "description": "System to manage points student",
+      "techs": [
+        {
+          "title": "Laravel & Vue Js (Vite)"
+        }
+      ],
+      "github": "#",
+      "status": "private",
+      "slug": "sip-point",
+      "content": "SIP Point dibuat untuk membantu sekolah dalam memberikan dan mengelola poin pelanggaran maupun penghargaan kepada siswa. Sistem ini memungkinkan guru mencatat setiap pelanggaran atau prestasi siswa secara terpusat. Dengan begitu, pihak sekolah dapat lebih mudah melakukan evaluasi terhadap kedisiplinan dan perkembangan siswa. Sistem ini juga berguna sebagai alat komunikasi antara sekolah dengan orang tua mengenai perilaku siswa."
+    },
+    {
+      "image": "/assets/remember_me.jpg",
+      "title": "Remember Me",
+      "description": "Simple task list app",
+      "techs": [
+        {
+          "title": "Flutter"
+        },
+        {
+          "title": "Laravel (Backend)"
+        }
+      ],
+      "github": "https://github.com/Farriq-mfq/remember-me",
+      "status": "public",
+      "slug": "remember-me",
+      "content": "Remember Me adalah aplikasi sederhana untuk mencatat daftar tugas harian. Aplikasi ini membantu pengguna mengelola aktivitas sehari-hari dengan mudah, mulai dari menambahkan daftar pekerjaan, mengatur deadline, hingga menandai tugas yang sudah selesai. Backend Laravel mendukung sinkronisasi data, sehingga pengguna bisa tetap menyimpan catatan meski berpindah perangkat. Aplikasi ini cocok untuk meningkatkan produktivitas individu."
+    },
+    {
+      "image": "/assets/fqshare.png",
+      "title": "FQShare",
+      "description": "make it easy to share your file with link and protect file with your own password",
+      "techs": [
+        {
+          "title": "typescript"
+        },
+        {
+          "title": "React"
+        },
+        {
+          "title": "postgresql"
+        }
+      ],
+      "github": "https://github.com/Farriq-mfq/FQshare",
+      "status": "public",
+      "slug": "fqshare",
+      "content": "FQShare hadir sebagai solusi berbagi file dengan lebih aman. Pengguna dapat mengunggah file, membagikan tautan kepada orang lain, serta melindungi file tersebut dengan password. Dengan React di sisi frontend dan PostgreSQL untuk penyimpanan data, sistem ini menjamin keamanan sekaligus kemudahan penggunaan. Proyek ini dibuat untuk menjawab kebutuhan berbagi file secara cepat namun tetap menjaga privasi."
+    },
+    {
+      "image": "/assets/siup.png",
+      "title": "SIUP (Sistem Uploader)",
+      "description": "help upload exam results during practice exams",
+      "techs": [
+        {
+          "title": "Laravel & Vue Js (inertia JS)"
+        }
+      ],
+      "github": "https://github.com/Farriq-mfq/uploader-ujian",
+      "status": "public",
+      "slug": "siup",
+      "content": "SIUP (Sistem Uploader) dibuat untuk memudahkan proses pengumpulan hasil ujian praktik. Guru maupun pengawas dapat dengan cepat mengunggah file hasil ujian siswa ke dalam sistem, sehingga data tersimpan lebih rapi dan mudah diakses kembali. Aplikasi ini membantu mengurangi penggunaan kertas dan mengatasi masalah menumpuknya dokumen fisik."
+    },
+    {
+      "image": "/assets/ol.png",
+      "title": "Book Ecommerce with codeigniter 4",
+      "description": " Book Ecommerce with codeigniter 4 integration with midtrans payment and raja ongkir for shipping service ",
+      "techs": [
+        {
+          "title": "Codeigniter 4"
+        }
+      ],
+      "github": "https://github.com/Farriq-mfq/online-store",
+      "status": "public",
+      "slug": "ol",
+      "content": "Proyek Book Ecommerce ini dirancang untuk menjual buku secara online dengan framework CodeIgniter 4. Sistem sudah terintegrasi dengan Midtrans untuk pembayaran online dan RajaOngkir untuk menghitung biaya pengiriman secara otomatis. Aplikasi ini memberikan pengalaman belanja yang lebih praktis, baik bagi penjual maupun pembeli, serta dapat dijadikan pondasi untuk pengembangan toko online skala kecil hingga menengah."
+    },
+    {
+      "image": "/assets/ss2.png",
+      "title": "MFQTalk",
+      "description": "MFQTALK adalah simple chat app yang dikembangkan dari hasil belajar saya ",
+      "techs": [
+        {
+          "title": "Express"
+        },
+        {
+          "title": "Socket.io"
+        },
+        {
+          "title": "Mongo"
+        },
+        {
+          "title": "React"
+        },
+        {
+          "title": "Tailwindcss"
+        }
+      ],
+      "github": "https://github.com/Farriq-mfq/chatapp",
+      "status": "public",
+      "slug": "mfqtalk",
+      "content": "MFQTalk adalah aplikasi chat sederhana yang dikembangkan sebagai sarana belajar implementasi komunikasi real-time. Dengan memanfaatkan Socket.io dan MongoDB, aplikasi ini memungkinkan pengguna bertukar pesan instan secara cepat. Selain itu, React dan Tailwindcss digunakan untuk membangun tampilan antarmuka yang sederhana namun responsif. Meskipun masih sederhana, aplikasi ini menjadi dasar untuk memahami bagaimana sistem chat modern bekerja."
+    },
+    {
+      "image": "/assets/fl.bmp",
+      "title": "Flutter Religion App",
+      "description": " Project Flutter dengan menggunakan State Management GETX yaitu aplikasi Islamic App ",
+      "techs": [
+        {
+          "title": "Flutter"
+        }
+      ],
+      "github": "https://github.com/Farriq-mfq/flutter-religion-app",
+      "status": "public",
+      "slug": "flutter-religion-app",
+      "content": "Flutter Religion App adalah aplikasi islami yang dibuat dengan Flutter menggunakan state management GetX. Aplikasi ini menyediakan berbagai fitur keislaman, seperti doa harian, jadwal sholat, dan bacaan Al-Qur’an. Tujuannya adalah untuk memberikan kemudahan bagi umat Muslim dalam mengakses informasi keagamaan langsung melalui perangkat mobile."
+    }
+  ]
+}
