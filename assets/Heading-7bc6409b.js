@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as o,k as a}from"./index-b98fe18c.js";const r={},c={class:"text-2xl capitalize border-slate-300 mt-3"};function n(e,l,_,p,d,i){return s(),o("h1",c,[a(e.$slots,"default")])}const m=t(r,[["render",n]]);export{m as H};

@@ -1,0 +1,1 @@
+import{_ as s,o,c as r,k as t}from"./index-b98fe18c.js";const a={},c={class:"grid gap-5"};function n(e,p,_,d,i,l){return o(),r("div",c,[t(e.$slots,"default")])}const $=s(a,[["render",n]]);export{$ as W};
